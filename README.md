@@ -35,7 +35,10 @@ This project classifies and summarizes news articles scraped from Google News an
     - Please ensure all required libraries and files are imported and installed as you've been told.
 - Providing Google News Link:
     - Input the Google News link you want to analyze in the notebook:
-      Google News Example Link
+      [Google News Example Link](https://www.google.co.in/search? 
+      sca_esv=81375795ef7c8290&q=geopolitics&tbm=nws&source=lnms&fbs=AEQNm0AMrUEM0u25RSHSP2GXBv1FqRTJXslv5T9cWPShXuZK- 
+      unDRtidhDD6MO07O664cf3rzCkRGzT6TOmIkWN6z59BEI_sG_WvMHTpzIDOeN0PGxo6GXSSfRa8cDxIQHuP1ScxnvE6gsfZbDnXeIgL3Qyo-XvYLn-hLUVVPKryJo- 
+      wirzCOT_YtAyqBqEwc4xdjGdPjKp8-OHxyRpPMvGmyQYg4pWTIw&sa=X&ved=2ahUKEwjf-9GdiJOHAxXD1jgGHQz3Ad0Q0pQJegQICRAB&biw=1185&bih=606&dpr=1.5)
     - Ensure the link points to a valid Google News search query.
 - Execution:
     - Run all cells in the notebook to initiate the scraping, classification, and summarization process.
