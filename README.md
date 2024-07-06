@@ -32,7 +32,7 @@ This project classifies and summarizes news articles scraped from Google News an
     - Ensure the requirements are available and run the following command to install dependencies:
 - Running the Example:
     - Open and execute the main.ipynb notebook in Google Colab.
-    - Make sure all required libraries and files are imported and installed as advised.
+    - Please ensure all required libraries and files are imported and installed as you've been told.
 - Providing Google News Link:
     - Input the Google News link you want to analyze in the notebook:
       Google News Example Link
